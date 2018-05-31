@@ -1,0 +1,9 @@
+E:\CSharp5Study\DevMayDummyDataTool\DevMayDummyDataTool\bin\Debug\DevMayDummyDataTool.exe.config
+E:\CSharp5Study\DevMayDummyDataTool\DevMayDummyDataTool\bin\Debug\DevMayDummyDataTool.exe
+E:\CSharp5Study\DevMayDummyDataTool\DevMayDummyDataTool\bin\Debug\DevMayDummyDataTool.pdb
+E:\CSharp5Study\DevMayDummyDataTool\DevMayDummyDataTool\obj\Debug\DevMayDummyDataTool.csprojResolveAssemblyReference.cache
+E:\CSharp5Study\DevMayDummyDataTool\DevMayDummyDataTool\obj\Debug\DevMayDummyDataTool.Form1.resources
+E:\CSharp5Study\DevMayDummyDataTool\DevMayDummyDataTool\obj\Debug\DevMayDummyDataTool.Properties.Resources.resources
+E:\CSharp5Study\DevMayDummyDataTool\DevMayDummyDataTool\obj\Debug\DevMayDummyDataTool.csproj.GenerateResource.Cache
+E:\CSharp5Study\DevMayDummyDataTool\DevMayDummyDataTool\obj\Debug\DevMayDummyDataTool.exe
+E:\CSharp5Study\DevMayDummyDataTool\DevMayDummyDataTool\obj\Debug\DevMayDummyDataTool.pdb
